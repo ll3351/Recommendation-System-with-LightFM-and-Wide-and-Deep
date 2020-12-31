@@ -1,0 +1,12 @@
+funcsigs==1.0.2
+pandas==1.1.5
+numpy==1.18.5
+seaborn==0.11.0
+scikit-learn==0.22.2.post1
+scipy==1.4.1
+matplotlib==3.2.2
+lightfm==1.16
+pyspark==3.0.1
+more-itertools==8.6.0
+mpmath==1.1.0
+mkl==2019.0
